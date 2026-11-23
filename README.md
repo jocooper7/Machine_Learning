@@ -17,5 +17,5 @@ This project involves the creation of a k-nearest neighbors classification algor
 |5| Data Preprocessing and Imputation | [Imputation Program](https://github.com/jocooper7/Machine_Learning/blob/main/Module_5_Activity/ModuleFiveActivity_StarterCode.py) |
 |6| Coding and Training a Perceptron | [Perceptron Program](https://github.com/jocooper7/Machine_Learning/blob/main/Module_6_Activity/Module6.py) |
 |7| Gradient Descent Algorithm | [Gradient Descent Program](https://github.com/jocooper7/Machine_Learning/blob/main/Module_7_Activity/ModuleSevenActivity_StarterCode.py) |
-|8| Clustering Algorithms | [K-Means Clustering](https://github.com/jocooper7/Machine_Learning/blob/main/Module_8_Activity/570_kmeans.py) - [Agglomerative Cluster](https://github.com/jocooper7/Machine_Learning/blob/main/Module_8_Activity/570_agglo.py) |
+|8| Clustering Algorithms | [K-Means Clustering](https://github.com/jocooper7/Machine_Learning/blob/main/Module_8_Activity/570_kmeans.py) - [Agglomerative Clustering](https://github.com/jocooper7/Machine_Learning/blob/main/Module_8_Activity/570_agglo.py) |
 |Final Project| KNN Algorithm and MLP Classifier Training and Tuning | [KNN and MLP Program](https://github.com/jocooper7/Machine_Learning/blob/main/Final_Project/CS570_Final_Project.py)
